@@ -38,20 +38,20 @@ Incorporation: 2001 [*1]
 
 ## References--[*#]
 
-https://www.marketbeat.com/stocks/OTCMKTS/XAUMF/
-https://finance.yahoo.com/quote/xaumf?ltr=1
-https://finance.yahoo.com/quote/XAU.TO/
-https://www.goldmoney.com/corporate/news/from-our-founders-the-new-goldmoney-holding
-https://www.youtube.com/watch?v=d6h-BiQkStI
-https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001630301&owner=include&count=40
-https://www.sedar.com/DisplayCompanyDocuments.do?lang=EN&issuerNo=00037170
-https://www.crunchbase.com/organization/goldmoney#section-ipo-stock-price
-https://forbes.com/sites/oliviergarret/2017/03/09/3-reasons-why-investors-should-avoid-gold-etfs/#3fc68a284dd8
-https://seekingalpha.com/article/3419476-how-big-is-the-gold-market-really
-https://www.goldmoney.com/images/media/Files/Docs/goldmoney-brochure.pdf
-https://www.goldmoney.com/corporate/investor-relations
-https://www.owler.com/company/jmbullion
-https://www.owler.com/company/apmex
-https://sdbullion.com/inc
-https://www.federalreserve.gov/monetarypolicy/reservereq.htm
-https://www.cnbc.com/2016/04/19/barclays-used-blockchain-tech-to-trade-derivatives.html
+1. https://www.marketbeat.com/stocks/OTCMKTS/XAUMF/
+2. https://finance.yahoo.com/quote/xaumf?ltr=1
+3. https://finance.yahoo.com/quote/XAU.TO/
+4. https://www.goldmoney.com/corporate/news/from-our-founders-the-new-goldmoney-holding
+5. https://www.youtube.com/watch?v=d6h-BiQkStI
+6. https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001630301&owner=include&count=40
+7. https://www.sedar.com/DisplayCompanyDocuments.do?lang=EN&issuerNo=00037170
+8. https://www.crunchbase.com/organization/goldmoney#section-ipo-stock-price
+9. https://forbes.com/sites/oliviergarret/2017/03/09/3-reasons-why-investors-should-avoid-gold-etfs/#3fc68a284dd8
+10. https://seekingalpha.com/article/3419476-how-big-is-the-gold-market-really
+11. https://www.goldmoney.com/images/media/Files/Docs/goldmoney-brochure.pdf
+12. https://www.goldmoney.com/corporate/investor-relations
+13. https://www.owler.com/company/jmbullion
+14. https://www.owler.com/company/apmex
+15. https://sdbullion.com/inc
+16. https://www.federalreserve.gov/monetarypolicy/reservereq.htm
+17. https://www.cnbc.com/2016/04/19/barclays-used-blockchain-tech-to-trade-derivatives.html
