@@ -1,14 +1,15 @@
-Goldmoney-- The Marriage of Investing, Banking and Payments
+# Goldmoney-- The Marriage of Investing, Banking and Payments
 
-Overview and Origin
+## Overview and Origin
 
-Name of Company: Goldmoney Inc.-- previously BitGold Inc. (name was changed July 2015) [*1]
+### Name of Company: Goldmoney Inc.-- previously BitGold Inc. (name was changed July 2015) [*1]
 Incorporation: 2001 [*1]
-Ticker: XAUMF on the American OTC market [*2] and XAU.TO (also TSX:XAU) on the Toronto Stock Exchange [*3]
-Founders: Roy Sebag (CEO), Josh Crumb (CFO), James Turk (Lead Director) [*4]
-Origin Story: Roy's mission upon founding BitGold was to broaden access to precious metals ownership through innovative technology.  In order to accomplish this task, he realized he needed to disrupt the banking industry as well as the jewelry industry [*5--minute 4:16]. 
-Funding: From January 2015-March 2016 BitGold Inc. had six Reg D offerings of undisclosed amounts [*6]. The Canadian equivalent of EDGAR is called SEDAR and their records only go back to May 2015 and do not include offering documents [*7]. Crunchbase, the hub of funding information, states that Goldmoney had one round of Post-IPO funding on October 3, 2017 for $30M CAD [*8]. There were two primary Canadian institutional backers: GMP Securities and Mackie Research Capital Corporation. They went public on May 13, 2015.
-Business Activities
+### Ticker: XAUMF on the American OTC market [*2] and XAU.TO (also TSX:XAU) on the Toronto Stock Exchange [*3]
+### Founders: Roy Sebag (CEO), Josh Crumb (CFO), James Turk (Lead Director) [*4]
+### Origin Story: Roy's mission upon founding BitGold was to broaden access to precious metals ownership through innovative technology.  In order to accomplish this task, he realized he needed to disrupt the banking industry as well as the jewelry industry [*5--minute 4:16]. 
+### Funding: From January 2015-March 2016 BitGold Inc. had six Reg D offerings of undisclosed amounts [*6]. The Canadian equivalent of EDGAR is called SEDAR and their records only go back to May 2015 and do not include offering documents [*7]. Crunchbase, the hub of funding information, states that Goldmoney had one round of Post-IPO funding on October 3, 2017 for $30M CAD [*8]. There were two primary Canadian institutional backers: GMP Securities and Mackie Research Capital Corporation. They went public on May 13, 2015.
+
+## Business Activities
 
 Problems the company solves: In theory, precious metals ownership is simple.  There are two main ways to invest in the market; You can either go to a bullion dealer with cash and walk out with the metal of your choice or you can purchase paper contracts on an exchange like GLD.  Both options have significant financial and security risks.  If you get physical metal you have to store it in a safe space to which you can either hide it in your house or get a safety deposit box with a monthly fee attached.  With paper contracts, and any financial security in general, you have counterparty risk; one person's asset is another's liability.  In the case of GLD, the custodian is HSBC [*9] and they are responsible for securing the underlying asset.  Although they are regulated by the SEC, their enforcement is not 100% guaranteed (ex. HSBC's money laundering incident with the Sinaloa Cartel).  In addition, the GLD prospectus states "GLD represents fractional, undivided interest in the trust"[*9]. This means that in the case of default or other issues, the owner of GLD does not have direct ownership of the underlying security, rather in the trust itself.  In either case there are liquidity issues because you cannot spend your asset on household items, rather you'd need to sell in order to purchase these essential goods.  Goldmoney solves all the aforementioned issues.  When you sign up for an account your money is 100% backed by physical metal and stored in a Brinks vault in one of 5 locations worldwide.  If you'd like to liquidate your position you have the option of getting physical metal by delivery.  In regards to liquidity, you get a debit card that allows you to purchase goods and services.  Goldmoney will take out a fractional percentage of your holdings based on current spot prices.  If your metal appreciated, you have more purchasing power however the converse is true as well.  In addition to the storage, payments, and liquidity concerns addressed, Goldmoney also has a mobile platform for tracking holdings.
 Intended customer: Goldmoney's mission is to democratize ownership of precious metals including gold, silver, platinum and palladium.  Their mission indicates that their intended customer is every global citizen.  They have ~$2B AUM with customers in over 150 countries. [*8]
