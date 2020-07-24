@@ -1,1 +1,2 @@
-
+Notes:
+Mining Node (Node 1) address: enode://82ce27b51b66168d3eafc6b85389f1b4fa34f59807c021688f39bcecc0d6dda88caf77c5f1eabb699cb31be85a060341fbb9ddefcb3d1c9d396fa89fc035e865@127.0.0.1:30303
